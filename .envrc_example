@@ -1,0 +1,7 @@
+export MYSQL_HOSTNAME=your_mysql_hostname
+export MYSQL_DATABASE=your_mysql_database
+export MYSQL_USERNAME=your_mysql_username
+export MYSQL_PASSWORD=your_mysql_password
+export SECRET_KEY=your_32_byte_secret_key
+export AUTHHEADER_PASSWORD=your_auth_header_password
+export CORS_ORIGIN=your_cors_origin
